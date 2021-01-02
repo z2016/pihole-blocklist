@@ -1,6 +1,8 @@
 # pihole-blocklist
 
-This is a comprehensive, occassionally updated blocklist of child unsafe domains, for use in DNS filter like Pi-Hole. It currently has over 1.9M domains in the blocklist. I am a father of two children and use this blocklist in my home network to make my network as family friendly as possible.
+This is a comprehensive, occassionally updated blocklist of child unsafe domains, most of them porn sites, for use in a DNS filter like Pi-Hole. I have created a single list from multiple such blocklists out there that were created for uses in other DNS filters like dnsmasq, and made it Pi-Hole compatible. It currently has over 1.9M domains. 
+
+I am a father of two children and use this blocklist in my home network to make my network as family friendly as possible.
 
 To use, add the URL below to Pi-Holes Admin -> Group Management -> Adlists page in the Pi-Hole administrative interface.
 
